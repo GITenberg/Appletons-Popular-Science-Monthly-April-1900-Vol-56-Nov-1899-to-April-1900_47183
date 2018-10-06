@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Appletons'' Popular Science Monthly, April 1900
 
   Vol. 56, Nov. 1899 to April, 1900'
